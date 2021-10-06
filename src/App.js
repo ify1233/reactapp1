@@ -87,7 +87,7 @@ console.log('ddd',tx)
       <br />
       <div>{check1}</div>
       </div>
-      <a className='btn btn-success' href="https://rinkeby.etherscan.io/address/"{check1} >CLICK TO VIEW CONTRACT ON ETHERSCAN</a>
+      <a className='btn btn-success' href={"https://rinkeby.etherscan.io/address/"$check1} >CLICK TO VIEW CONTRACT ON ETHERSCAN</a>
      
     </div>
   );
